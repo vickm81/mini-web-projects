@@ -1,3 +1,3 @@
 # mini-web-projects
-Just a bunch of interesting mini web projects
-I'll just adding any small web project i do here :)
+Just a bunch of interesting mini web projects.
+I'll just keep adding any small web projects i do here :)
